@@ -2,3 +2,54 @@
     margin: 0px;
     padding: 0px;
 }
+/* first banner designed */
+.first-banner{
+ width: 1920px;
+height: 850px;
+background-color: rgba(229, 84, 115, 0.10);
+display: flex;
+align-items: center;
+padding-left: 240px;
+gap: 100px;
+}
+.first-title{
+    width: 700px;
+    height: 280px;
+    color: #272727;
+font-family: Lato;
+font-size: 80px;
+font-style: normal;
+font-weight: 800;
+line-height: normal;
+}
+.first-content{
+    width: 630px;
+    height: 90px;
+    color: rgba(39, 39, 39, 0.60);
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+padding-top: 30px;
+padding-bottom: 30px;
+}
+.first-banner-image{
+    /* padding-right: 240px; */
+    height: 800px;
+    width: 635px;
+    padding-bottom: 0px;
+    padding-top: 50px;
+}
+.btn-primary{
+    padding: 20px 40px;
+    color: #FFF;
+font-family: Lato;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+background-color: #E55473;
+border-radius: 5px;
+border: none;
+}
