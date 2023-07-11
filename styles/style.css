@@ -12,7 +12,8 @@ height: 850px;
 background-color: rgba(229, 84, 115, 0.10);
 display: flex;
 align-items: center;
-padding-left: 240px;
+/* margin-left: 240px; */
+/* padding-left: 240px; */
 gap: 100px;
 }
 .first-title{
@@ -23,11 +24,13 @@ gap: 100px;
 font-style: normal;
 font-weight: 900;
 line-height: normal;
+margin-left: 240px;
 }
 .first-content{
     width: 630px;
     height: 90px;
     color: rgba(39, 39, 39, 0.60);
+    margin-left: 240px;
 
 font-size: 18px;
 font-family: Lato;
@@ -40,7 +43,7 @@ padding-bottom: 30px;
 .first-banner-image{
 
     height: 800px;
-    width: 635px;
+    /* width: 635px; */
     padding-bottom: 0px;
     padding-top: 50px;
 }
@@ -50,13 +53,16 @@ padding-bottom: 30px;
     font-family: Lato;
 font-size: 20px;
 font-style: normal;
-font-weight: 700;
+font-weight: 900;
 line-height: normal;
 background-color: #E55473;
 border-radius: 5px;
 border: none;
 }
-/* 2nd part designed */
+.bttn{
+    margin-left: 240px;
+}
+2nd part designed
 
 .featured-title{
     text-align: center;
@@ -69,6 +75,8 @@ border: none;
 font-style: normal;
 font-weight: 900;
 line-height: normal;
+text-align: center;
+margin-top: 180px;
 }
 .f-content{
     width: 600px;
@@ -83,9 +91,11 @@ padding-top: 20px;
 /* 2nd part images */
 .nd-part-images{
     display: flex;
-    padding-left: 240px;
+    padding-left: 230px;
+
     padding-top: 40px;
     gap: 20px;
+    padding-bottom: 180px;
 }
 
 .nd-part-image{
@@ -97,7 +107,7 @@ padding-top: 20px;
     
 }
 .part-img{
-    padding-left: 75px;
+    margin-left: 75px;
     padding-top: 110px;
 }
 .f-flower-name{
@@ -115,4 +125,44 @@ padding-top: 15px;
 }
 .imggg{
     padding-top: 69px;
+}
+/* third part designed */
+
+.second-banner-container{
+    height: 620px;
+    width: 1920px;
+    border-radius: 8px;
+    background-color: rgba(229, 84, 115, 0.05);
+    display: flex;
+    align-items: center;
+    text-align: center;
+
+
+
+}
+.second-banner-content{
+    width: 580px;
+    color: rgba(39, 39, 39, 0.60);
+text-align: center;
+font-family: Lato;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: 30px;
+margin-top: 15px;
+margin-bottom: 15px;
+}
+.second-banner{
+    margin-left: 350px;
+    margin-right: 200px;
+}
+.second-banner-img{
+   
+}
+.second-banner-title{
+    font-size: 40px;
+font-style: normal;
+font-weight: 800;
+color: #272727;
+
 }
