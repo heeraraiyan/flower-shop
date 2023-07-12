@@ -106,9 +106,16 @@ align-items: center;
 border-radius: 300px 300px 0px 0px;
     
 }
+.ndimg{
+    background-color: rgba(5, 151, 160, 0.15);
+}
+.ndimage{
+    background-color: rgba(71, 125, 17, 0.15);
+}
 .part-img{
 margin-left: 75px;
 padding-top: 110px;
+
 }
 .f-flower-name{
 color: #272727;
@@ -192,7 +199,7 @@ color: #272727;
     display: flex;
     padding-left: 240px;
     gap: 24px;
-    padding-bottom: 200px;
+    padding-bottom: 180px;
 }
 /* extraaa */
 
