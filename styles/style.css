@@ -199,7 +199,7 @@ color: #272727;
 .extra{
     width: 85%;
     height: 200px;
-    background-color: rgba(229, 84, 115, 0.3);
+    background-color: rgba(229, 84, 115, 0.15);
     display: flex;
     margin: auto;
     justify-content: space-evenly;
@@ -274,4 +274,32 @@ border: none;
 }
 .deals-container{
     padding-bottom: 130px;
+}
+/* footers designed */
+.shop{
+    width: 1920px;
+    height: 450px;
+    background-color: #111010;
+    text-align: center;
+    
+
+}
+.shop-content{
+    color: rgba(255, 255, 255, 0.90);
+    font-size: 18px;
+    font-weight: 400;
+    line-height: 30px;
+}
+.shop-title{
+    color: white;
+    font-size: 48px;
+    font-weight: 900;
+    padding-top: 130px;
+    padding-bottom: 30px;
+}
+.shop-content-last{
+    color: rgba(255, 255, 255, 0.40);
+    font-size: 16px;
+    font-weight: 400;
+    padding-top: 50px;
 }
