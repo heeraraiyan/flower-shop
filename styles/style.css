@@ -213,7 +213,7 @@ color: #272727;
 
 }
 .extra-title{
-    width: 500px;
+width: 500px;
 }
 .extra-content{
 color: rgba(39, 39, 39, 0.60);
@@ -222,12 +222,56 @@ font-style: normal;
 font-weight: 400;
 line-height: 30px;
 text-align: center;
-
-
 }
 .extra-content-title{
-    font-size: 20px;
-    font-weight: 700;
+font-size: 20px;
+font-weight: 700:
+}
 
+/* dealss */
+.deals-image{
+ margin-left: 240px;
+margin-bottom: 130px;
+align-items: center;
+}
+.deals-title{
+font-size: 40px;
+font-weight: 900;
+padding-bottom:15px;
+    }
 
+.deals-content{
+margin-top:-300px;
+text-align: center;
+padding-right: 280px;
+}
+.deals-it{
+    }
+.email-box{
+width: 700px;
+height: 60px;
+color: #FFF;
+padding-left: 20px;
+font-size: 16px;
+font-style: normal;
+font-weight: 400;
+text-decoration: color(rgba(39, 39, 39, 0.60));
+border-radius: 10px;
+border: none;
+
+}
+
+.deals-para{
+    padding-bottom: 30px;
+    font-size: 18px;
+    font-weight: 400;
+    color:rgba(39, 39, 39, 0.60) ;
+}
+.deals-box{
+    display: flex;
+    gap: 20px;
+    padding-left:270px;
+}
+.deals-container{
+    padding-bottom: 130px;
 }
